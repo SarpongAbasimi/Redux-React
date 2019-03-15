@@ -100,3 +100,5 @@ class AppWrapper extends React.Component {
   }
 };
  
+# when uisng read-redux connect to connet a component to a store make sure to defaul
+# export the connect.
